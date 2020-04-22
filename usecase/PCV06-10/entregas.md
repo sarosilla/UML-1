@@ -12,4 +12,5 @@
 |GARCÍA INSUA, MIGUEL | [PCV06-10](https://github.com/mgi007/PCV06-10/tree/master/src)|1.0|
 |VEIGA SALAFRANCA, MANUEL| [PCV06-10](https://github.com/Manumk13/PUML)|1.0|
 |SÁNCHEZ BERJANO, SARA | [PCV06-10](https://github.com/sarosilla/CasosUso.git)|1.0|
+|Balladares Flores, Victor | [PCV06-10](https://github.com/rastaman10/PCV06-10)|1.0|
 |SÁNCHEZ-FLOR, JORGE | [PCV06-10](https://github.com/JorgeSF85/DiagramasDeUso)|1.0|
