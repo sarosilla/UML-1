@@ -25,7 +25,7 @@ Veamos dónde se ubican los diagramas de secuencia con respecto a la tipología 
   - Diagrama de actividad
   - Diagrama de maquina de estados
 
-Hay estudios [^1] que revelan que de los 14 diagramas, los tres diagramas más usados son los de **clases**, **casos de uso** y de **secuencia**.
+Hay estudios [1] que revelan que, de los 14 diagramas, los tres diagramas más usados son los de **clases**, **casos de uso** y de **secuencia**.
 
 En en este [enlace de la herramienta de diseño Visual Paradigm](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/overview-of-the-14-uml-diagram-types/#uml-type-states) muestran el siguiente gráfico de estadísticas de uso basado en sus propios muestreos:
 
@@ -33,7 +33,7 @@ En en este [enlace de la herramienta de diseño Visual Paradigm](https://www.vis
 
 Ahora bien, si se pregunta a un admnistrador de sistemas, nos dirá con mucha probabilidad que habría que incluir en esa lista los diagramas de **despliegue**. Una persona que trabaje en sistemas concurrentes puede usar mucho los diagramas de **máquina de estados** y alguien con orientación a procesos de negocio encuentra que el diagrama de **actividad** puede servir bien para sus objetivos.
 
-[^1]: [Studying the Benefits of Using UML on Software Maintenance: an Evidence-Based Approach](https://ruidera.uclm.es/xmlui/bitstream/handle/10578/22080/TESIS%20Fernandez%20Saez.pdf?sequence=1). Ana M. Fernández Sáez. UCLM. Oct 2018.
+
 
 
 ## Material de estudio
@@ -63,3 +63,6 @@ Aquí tenéis unos ejemplos funcionales sobre cómo incrustar el diagrama en pá
 ## Práctica
 
 * [PCV06-20](PCV06-20/PCV06-20.md)
+
+---
+[1]: [Studying the Benefits of Using UML on Software Maintenance: an Evidence-Based Approach](https://ruidera.uclm.es/xmlui/bitstream/handle/10578/22080/TESIS%20Fernandez%20Saez.pdf?sequence=1). Ana M. Fernández Sáez. UCLM. Oct 2018.
