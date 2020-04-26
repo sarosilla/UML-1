@@ -1,0 +1,42 @@
+@startuml
+skinparam sequenceParticipant underline
+hide footbox
+
+actor Participante
+participant ":Tarea" as Tarea
+participant ":Proyecto" as Proyecto
+actor "Jefe de proyecto" as Jefe
+
+== Actualizar tarea ==
+activate Participante
+autonumber "1-"
+Participante -> Tarea ++ : actualiza(desc, texto)
+note left
+    1: El participante
+    actualiza los datos de la
+    tarea, su descripcion y texto
+end note
+Tarea -> Jefe ++ : notifica (asunto, cuerpo)
+deactivate Jefe
+autonumber stop
+Tarea --> Participante --
+
+== Añadir horas ==
+autonumber "2-"
+Participante -> Tarea ++ : añadeHoras(horas, minutos)
+note left
+    2: El participante
+    añade horas de
+    trabajo a la tarea
+end note
+Tarea -> Proyecto ++ : actualizaCostes()
+note right : [para cada tarea]
+Proyecto -> Proyecto ++ : sumaCoste()
+deactivate Proyecto
+autonumber stop
+Proyecto --> Tarea --
+Tarea --> Participante
+deactivate Tarea
+deactivate Participante
+
+@enduml

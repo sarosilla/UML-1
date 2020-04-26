@@ -1,0 +1,44 @@
+@startuml
+skinparam sequenceParticipant underline
+hide footbox
+
+actor "Jefe de proyecto" as Jefe
+participant ":Proyecto" as Proyecto
+participant ":Tarea" as Tarea
+participant ":Material" as Material
+participant ":Factura" as Factura
+
+activate Jefe
+autonumber
+Jefe -> Proyecto : cerrar
+activate Proyecto
+activate Tarea
+Proyecto -> Tarea : hay tareas abiertas?
+autonumber stop
+Jefe <-- Tarea
+
+
+autonumber 3
+Jefe -> Proyecto : cerrar tareas
+Proyecto -> Tarea : cerrar tareas abiertas
+deactivate Tarea
+destroy Tarea
+activate Material
+Proyecto -> Material : hay materiales pendientes?
+autonumber stop
+Material --> Jefe
+deactivate Material
+destroy Material
+
+activate Factura
+autonumber 6
+Proyecto -> Factura : crear
+autonumber stop
+Proyecto --> Jefe : OK
+deactivate Factura
+destroy Factura
+deactivate Proyecto
+destroy Proyecto
+deactivate Jefe
+
+@enduml

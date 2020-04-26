@@ -1,0 +1,34 @@
+@startuml
+skinparam sequenceParticipant underline
+hide footbox
+
+actor Participante
+participant ":Tarea" as Tarea
+participant ":Nota" as Nota
+actor "Jefe de proyecto" as Jefe
+
+activate Participante
+activate Tarea
+autonumber "4-"
+Participante -> Tarea : borraTarea
+alt participante = creador
+    loop para cada nota
+        activate Nota
+        Tarea -> Nota : borraNota
+    deactivate Nota
+    end
+
+    Tarea -> Jefe : notifica
+    activate Jefe
+    autonumber stop
+    Tarea --> Participante : OK
+else
+    Tarea --> Participante
+    deactivate Jefe
+    deactivate Tarea
+end
+
+
+deactivate Participante
+
+@enduml
