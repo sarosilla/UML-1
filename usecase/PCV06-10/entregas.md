@@ -14,3 +14,4 @@
 |SÁNCHEZ BERJANO, SARA | [PCV06-10](https://github.com/sarosilla/CasosUso.git)|1.0|
 |Balladares Flores, Victor | [PCV06-10](https://github.com/rastaman10/PCV06-10)|1.0|
 |SÁNCHEZ-FLOR, JORGE | [PCV06-10](https://github.com/JorgeSF85/DiagramasDeUso)|1.0|
+|GARCÍA REVIEJO, DAVID | [PCV06-10](https://github.com/David0304/UML)|1.0|
