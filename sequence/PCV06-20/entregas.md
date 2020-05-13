@@ -7,3 +7,4 @@
 |GARCÍA REVIEJO, DAVID | [PCV06-20](https://github.com/David0304/DiagramaDeSecuencia) | 1.0 |
 |DOTOR PUENTE, ELIA | [PCV06-20](https://github.com/eliadotor/UML/tree/master/sequence/PCV06-20) | 1.0 |
 |SANZ MOLINA, JORGE | [PCV06-20](https://github.com/jorgesanz98/uml) | 1.0 |
+|SÁNCHEZ FLOR, JORGE | [PCV06-20](https://github.com/JorgeSF85/PCV06-20/tree/master/PCV06-20) | 1.0 |
