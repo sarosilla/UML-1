@@ -7,7 +7,6 @@
 |GARCÍA REVIEJO, DAVID | [PCV06-20](https://github.com/David0304/DiagramaDeSecuencia) | 1.0 |
 |DOTOR PUENTE, ELIA | [PCV06-20](https://github.com/eliadotor/UML/tree/master/sequence/PCV06-20) | 1.0 |
 |SANZ MOLINA, JORGE | [PCV06-20](https://github.com/jorgesanz98/uml) | 1.0 |
-|SÁNCHEZ FLOR, JORGE | [PCV06-20](https://github.com/JorgeSF85/PCV06-20/tree/master/PCV06-20) | 1.0 |
 |CABRERA CÁCERES, SANDRA |[PCV06-20] (https://github.com/Sandra90-16/Diagramas_Secuencia.git) |1.0|
 |UTRERO DELGADO, PATRICIA|[PCV06-20](https://github.com/paatrii/PCV06-20)|1.0|
 |Balladares, Victor|[PCV06-20](https://github.com/rastaman10/PCV06-20) |1.0|
