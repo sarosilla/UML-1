@@ -11,3 +11,4 @@
 |UTRERO DELGADO, PATRICIA|[PCV06-20](https://github.com/paatrii/PCV06-20)|1.0|
 |Balladares, Victor|[PCV06-20](https://github.com/rastaman10/PCV06-20) |1.0|
 |Cabeza Robledo, Kevin | [PCV06-20](https://github.com/KevinCabeza/DiagramaSecuencial.git)| 1.0 |
+|LARRIETA CHIESA, MATIAS  | [PCV06-20](https://github.com/MatChiesa/UML-PCV06-20)| 2 |
