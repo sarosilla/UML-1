@@ -13,3 +13,4 @@
 |Cabeza Robledo, Kevin | [PCV06-20](https://github.com/KevinCabeza/DiagramaSecuencial.git)| 1.0 |
 | García Insua, Miguel | [PV06-20](https://github.com/mgi007/PV06-20/tree/master/src) | 1.0 |
 |MELGUIZO MARTINEZ, AMADO | [PCV06-20](https://github.com/amadoojosazules/DiagramaSecuencia.git) | 1 |
+|Viñé Barrancos, Alonso | [PCV06-20](https://github.com/AlonsoViBa/PlantUml)| 1.0 |
